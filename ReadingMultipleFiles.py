@@ -1,4 +1,4 @@
-import sys  $accesses you current path
+import sys  $accesses your current path
 sys.path.append('/monteCarloData/Ledger') $path where data collected is
 
 BaseString="Ledger"
